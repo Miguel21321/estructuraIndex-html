@@ -1,0 +1,30 @@
+body {
+  font-family: arial, helvetica;
+  background: "EL COLOR HEX DE TU FONDO SI AGREGAS ESTO EL bgcolor NO FUNCIONA";
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  background: "COLOR HEX DEL FONDO DE TU MENU";
+  width: 90%;
+  max-width: "PIXELES RECOMENDADO: 1000px";
+  margin: auto;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: "COLOR DE LAS LETRAS";
+  padding: 20px;
+  display: block;
+}
+
+.menu li {
+  display: inline-block;
+  text-align: "EL TEXTO SI LO QUEREIS CENTADO, A LA DERECHA, ETC...";
+}
+
+.menu li a:hover {
+  background: "COLOR CUANDO ESTEIS ENCIMA DEL MENU";
+}
+© Miguel 2021
