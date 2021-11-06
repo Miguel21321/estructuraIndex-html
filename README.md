@@ -1,2 +1,3 @@
-# estructuraIndex-html
-La estructura de un index cualquiera html.
+# ESTRUCTURA HTML
+OBLIGATORIO UNIRTE A NUESTRO DISCORD AQUI https://discord.gg/7KvyprasTC
+© Miguel 2021
